@@ -1,0 +1,44 @@
+html {
+        font-family: sans-serif;
+      }
+      body {
+       
+        margin: 0 auto;
+        background-color: bisque;
+
+      }
+      .lastResult {
+        color: white;
+        padding: 3px;
+      }
+
+      .main-div{
+        border-width: 3px;
+        border: 1px solid #ccc;
+        box-sizing: border-box;
+        border-color:grey;
+        margin: 100px;
+        padding: 50px;
+      }
+
+
+      button{
+        background-color: green;
+        color: white;
+        border: 1px solid green;
+        padding: 6px;
+        font-size: 18px;
+        font-family: monospace;
+        border-radius: 6px;
+
+    }
+
+    button:hover{
+        opacity: 0.8;
+    }
+
+    .guessField{
+        width: 100px;
+        height: 20px;
+    }
+  
